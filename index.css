@@ -411,6 +411,7 @@ h2 {
 
 .money-flow-col {
   margin-left: 3.6rem;
+  padding-bottom: 3.2rem;
 }
 
 .top-col {
@@ -420,7 +421,47 @@ h2 {
 }
 
 .flow-icon {
-  padding-left: 15rem;
+  padding-left: 13rem;
+}
+
+.bottom-col {
+  display: flex;
+  align-items: center;
+  gap: 8.4rem;
+  padding-top: 1rem;
+}
+
+#week {
+  width: 59.96px;
+  height: 26.33px;
+  border: 0.73125px solid #e5e9f4;
+  border-radius: 12.9443px;
+  font-family: "Gilroy-Medium";
+  font-size: 10.2375px;
+  line-height: 12px;
+  color: #141736;
+}
+
+.savings-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 11px;
+}
+
+.savings-group-h4 {
+  font-family: "Gilroy-Medium";
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.savings-group-h5 {
+  font-family: "Gilroy-Bold";
+  font-size: 10.2375px;
+  line-height: 12px;
+  color: #7c8da7;
 }
 
 .sc-3-table-header {
