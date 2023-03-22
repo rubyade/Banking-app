@@ -423,6 +423,7 @@ h2 {
 .money-flow-col {
   margin-left: 3.6rem;
   padding-bottom: 3.2rem;
+  display: flex;
 }
 
 .top-col {
@@ -473,6 +474,68 @@ h2 {
   font-size: 10.2375px;
   line-height: 12px;
   color: #7c8da7;
+}
+
+.flex-2 {
+  padding-top: 2.3rem;
+  padding-left: 2rem;
+}
+
+.recent-contact {
+  font-family: Gilroy-SemiBold;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.flex-2-h4 {
+  font-family: Gilroy-SemiBold;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7d8da6;
+  margin-top: 1rem;
+}
+
+.flex-2-top-col {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  align-items: center;
+}
+
+.flex-2-icons {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.flex-2-contacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.5rem;
+}
+
+.flex-2-dropdown {
+  rotate: 270deg;
+  color: #a5b4cb;
+}
+
+.flex-2-rectangle {
+  padding-top: 1rem;
+  padding-left: 5rem;
+}
+
+.flex-2-group-party {
+  width: 206.21px;
+  height: 130.16px;
+  background: #ffffff;
+  box-shadow: 0px 3.65625px 16.8187px rgba(0, 0, 0, 0.06);
+  border-radius: 8.04375px;
+  margin-top: 1.5rem;
 }
 
 .sc-3-table-header {
